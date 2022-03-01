@@ -1,7 +1,7 @@
 - 👋 Olá, me chamo @tamiresxavier
 - 👀 Estou interessada em aprofundar ainda mais o meu conhecimento em programação
 - 🌱 Atualmente estou aprendendo JavaScript e HTML
-- 💞️ Estou procurando colaborar em pojetos futuros 
+- 💞️ Estou procurando colaborar em projetos futuros 
 - 📫 Contato: tx977459@gmail.com
 
 <!---
