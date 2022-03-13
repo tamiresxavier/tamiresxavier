@@ -1,5 +1,5 @@
 - 👋 Hi, my name is @tamiresxavier
-- 👀 I am interested in further deepening my knowledge of programming
+- 👀 I'm interested in deepening my knowledge in programming even more
 - 🌱 I am currently learning JavaScript and HTML
 - 💞️ I'm looking to collaborate on future projects
 - 📫 Contact: tx977459@gmail.com
