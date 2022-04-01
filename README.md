@@ -1,8 +1,5 @@
 ### Olá, eu sou a Tamires Xavier
 
-- 🌱 Atualmente estou aprendendo Javascript
-- 🌱 Atualmente estou aprendendo HTML5
-- 🌱 Atualmente estou aprendendo CSS3
 <div align="center">
   <a href="https://github.com/tamiresxavier ">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tamiresxavier&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
