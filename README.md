@@ -8,7 +8,7 @@ Me chamo Tamires, muitos acreditam que gosto de ser chamada de Thammy/Tammy, por
 <div align="center">
   <img width="398" src="https://media.tenor.com/1cbzhT0TKTMAAAAd/cat-asleep.gif">
 </div>
-  <br>
+  </br>
 
   <br>
 <div align="center">
@@ -16,7 +16,7 @@ Me chamo Tamires, muitos acreditam que gosto de ser chamada de Thammy/Tammy, por
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tamiresxavier&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tamiresxavier&layout=compact&langs_count=8&theme=dark"/>
 </div>
-  <br>
+  </br>
   
 ### Tecnologias que tenho familiaridade
 <div>
