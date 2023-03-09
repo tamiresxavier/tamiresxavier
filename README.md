@@ -2,7 +2,7 @@
 
 ![ Digitando SVG ](https://readme-typing-svg.herokuapp.com?color=%FFFF85ff&size=18&duration=6000¢er=true&vCenter=true&width=600&lines=Seja+Bem-+Vindo(a)+%3C3)
 
-Me chamo Tamires, muitos acreditam que gosto de ser chamada de Thammy/Tammy, por conta dos meus emails antigos começarem sempre com um thammy/tammyxavier, mas só gosto de ser chamada de Tamires mesmo, desculpa pessoal pelo engano kkkkkkkk, tenho 25 anos, sou natural de São José dos Campos, interior de São Paulo, porém hoje em dia, resido em Sertânia, interior de Pernambuco. Iniciei no mundo da tecnologia quando tinha 12/13 anos, através de disciplinas de informática e outras afins que tive durante o meu ensino fundamental na escola onde estudava de tempo integral da minha cidade natal. Porém, não me contentei e fui atrás de um curso fora que fosse mais abrangente de informática que era sempre nos sábados na parte da manhã. Aos 14 anos, já residindo em Sertânia, me interessei em fazer o ensino médio em uma escola técnica, onde ofereciam/oferecem um curso técnico integrado em redes de computadores, desde então, não parei, comecei a ter contato com programação aos 20 anos, e nisso, puder ver o outro lado do universo, que por sinal é fantástico, e com isso, realmente consegui perceber que estou no caminho certo, gosto muito de aprender coisas/linguagens novas (Minha curiosidade não me deixa fazer diferente) e espero continuar assim por um bom tempo.
+Me chamo Tamires, muitos acreditam que gosto de ser chamada de Thammy/Tammy, por conta dos meus emails antigos começarem sempre com um thammy/tammyxavier, mas só gosto de ser chamada de Tamires mesmo, desculpa pessoal pelo engano kkkkkkkk, tenho 25 anos, sou natural de São José dos Campos, interior de São Paulo, porém hoje em dia, resido em Sertânia, interior de Pernambuco. Iniciei no mundo da tecnologia quando tinha 12/13 anos, através de disciplinas de informática e outras afins que tive durante o meu ensino fundamental na escola onde estudava de tempo integral da minha cidade natal. Apesar disso, não me contentei e fui atrás de um curso fora que fosse mais abrangente de informática que era sempre nos sábados na parte da manhã. Aos 14 anos, já residindo em Sertânia, me interessei em fazer o ensino médio em uma escola técnica, onde ofereciam/oferecem um curso técnico integrado em redes de computadores, desde então, não parei, comecei a ter contato com programação aos 20 anos, e nisso, puder ver o outro lado do universo, que por sinal é fantástico, e com isso, realmente consegui perceber que estou no caminho certo, gosto muito de aprender coisas/linguagens novas (Minha curiosidade não me deixa fazer diferente) e espero continuar assim por um bom tempo.
 
   <br>
 <div align="center">
@@ -17,6 +17,7 @@ Me chamo Tamires, muitos acreditam que gosto de ser chamada de Thammy/Tammy, por
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tamiresxavier&layout=compact&langs_count=8&theme=dark"/>
 </div>
   </br>
+
   
 ### Tecnologias que tenho familiaridade
 <div>
@@ -32,8 +33,9 @@ Me chamo Tamires, muitos acreditam que gosto de ser chamada de Thammy/Tammy, por
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
-  </br>
-  
+
+  <br>
+ 
 ### Conecte-se comigo
 <div>
   <a href = "mailto:tx977459@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -42,3 +44,4 @@ Me chamo Tamires, muitos acreditam que gosto de ser chamada de Thammy/Tammy, por
   <a href="https://www.instagram.com/tamiresx/"target="_blank"><img 
   src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
 </div>
+  </br>
