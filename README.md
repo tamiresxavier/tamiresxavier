@@ -44,4 +44,3 @@ Me chamo Tamires, muitos acreditam que gosto de ser chamada de Thammy/Tammy, por
   <a href="https://www.instagram.com/tamiresx/"target="_blank"><img 
   src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
 </div>
-  </br>
