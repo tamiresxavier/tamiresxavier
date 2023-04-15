@@ -3,7 +3,7 @@
   <br><br>
   <samp>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"> Hi! My name is Tamires, I am a student of the Systems Analysis and Development course.
-    <br>I do an internship in backend development at Compass UOL!
+    <br>I do an internship in backend development at Compass UOL :coffee:
       <br>I consider myself a person passionate about technology :D
     <br>Today, I'm still learning to make things :sparkles:<br><br>
   </samp>
