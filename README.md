@@ -1,8 +1,18 @@
-### Hi, people  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"> Hi! My name is Tamires, I am a student of the Systems Analysis and Development course.
+    <br>I do an internship in backend development at Compass UOL.
+      <br>I consider myself a person passionate about technology :D
+    <br>Today, I'm still learning to make things :sparkles:<br><br>
+  </samp>
+</p>
 
-![ Digitando SVG ](https://readme-typing-svg.herokuapp.com?color=%FFFF85ff&size=18&duration=6000¢er=true&vCenter=true&width=600&lines=Be+Welcome+%3C3)
+<div align="center">
+  <![ Digitando SVG ](https://readme-typing-svg.herokuapp.com?color=%FFFF85ff&size=18&duration=6000¢er=true&vCenter=true&width=600&lines=Be+Welcome+%3C3)>
+</div>
 
-  <br>
 <div align="center">
   <img width="398" src="https://media.tenor.com/1cbzhT0TKTMAAAAd/cat-asleep.gif">
 </div>
