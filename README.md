@@ -12,11 +12,6 @@
   <![ Digitando SVG ](https://readme-typing-svg.herokuapp.com?color=%FFFF85ff&size=18&duration=6000¢er=true&vCenter=true&width=600&lines=Be+Welcome+%3C3)>
 </div>
 
-<div align="center">
-  <img width="398" src="https://media.tenor.com/1cbzhT0TKTMAAAAd/cat-asleep.gif">
-</div>
-  </br>
-
   <br>
 <div align="center">
 <a href="https://github.com/tamiresxavier">
