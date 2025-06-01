@@ -31,19 +31,25 @@
   <img align="center" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" height="35" width="35" src="https://img.icons8.com/color/48/000000/docker.png">
+  <img align="center" height="35" width="35" src="https://img.icons8.com/color/48/000000/github.png">
   <img align="center" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="35" width="35" src="https://www.svgrepo.com/show/353904/insomnia.svg">
+  <img align="center" height="35" width="35" src="https://www.svgrepo.com/show/331488/mongodb.svg">
   <img align="center" height="35" width="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
   <img align="center" height="35" width="35" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" height="35" width="35" src="https://www.svgrepo.com/show/452129/vs-code.svg">
   <img align="center" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+ 
 </details>  
 
   <br>
 <details>
   <summary><b>Connect with me</b></summary>
     <br>
-  <a href = "mailto:tx977459@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:tamiresxavierdesousa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tamiresx/" target="_blank"><img 
   src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a> 
   <a href="https://www.instagram.com/tamiresx/"target="_blank"><img 
